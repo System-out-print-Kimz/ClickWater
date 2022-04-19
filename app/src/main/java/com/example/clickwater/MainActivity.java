@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     EditText text;
     Firebase firebase;
 
-    public static final String Firebase_Server_URL = "https://clickwater-3da48-default-rtdb.firebaseio.com/";
+    public static final String Firebase_Server_URL = "your firebase url here";
     String issueHolder;
 
     @Override
